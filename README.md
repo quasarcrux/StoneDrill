@@ -1,5 +1,6 @@
 # StoneDrill PhysicalDrive Fucker!
 - Shamoon's cousin: Shamoon emerged in 2012 and targeted the energy sector for sabotage, destroying hard drives by overwriting critical sectors and deleting the MBR, rendering systems unusable. It uses basic propagation techniques via stolen credentials and SMB, with no persistence or advanced communication.
+- Stonedrill's tories: StoneDrill is a more recent and sophisticated variant (detected in 2018-2019) that maintains the same destructive intent but employs more advanced methods: it overwrites multiple disk areas, deletes backups, uses encryption to hide its modules, communicates with C2 servers to receive commands, and can persist on the system. It also employs more complex evasion and propagation techniques.
 
 ## T1485 Data Destruction
 Adversaries may destroy data and files on specific systems or in large numbers on
