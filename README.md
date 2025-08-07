@@ -1,5 +1,5 @@
 # StoneDrill PhysicalDrive Fucker!
-- Shamoon's cousin
+- Shamoon's cousin: Shamoon emerged in 2012 and targeted the energy sector for sabotage, destroying hard drives by overwriting critical sectors and deleting the MBR, rendering systems unusable. It uses basic propagation techniques via stolen credentials and SMB, with no persistence or advanced communication.
 
 ## T1485 Data Destruction
 Adversaries may destroy data and files on specific systems or in large numbers on
