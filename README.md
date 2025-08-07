@@ -31,3 +31,6 @@ making the files recoverable by proper forensic methodology. This behavior is di
 | SI-3          | Malicious Code Protection                  | Protects     | T1485     | Data Destruction |                  |
 | SI-4          | System Monitoring                         | Protects     | T1485     | Data Destruction |                  |
 | SI-7          | Software, Firmware, and Information Integrity | Protects | T1485     | Data Destruction |                  |
+
+> [!IMPORTANT]\
+> This method detects a service install of the malicious Microsoft Network Realtime Inspection Service service described in StoneDrill report by Kaspersky
