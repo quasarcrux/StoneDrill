@@ -81,14 +81,14 @@ Persistence consists of techniques that adversaries use to keep access to system
 *Adversaries may create or modify Windows services to repeatedly execute malicious payloads as part of persistence. When Windows boots up, it starts programs or applications called services that perform background system functions. Adversaries may install a new service or modify an existing service by using system utilities to interact with services, by directly modifying the Registry, or by using custom tools to interact with the Windows API. Adversaries may configure services to execute at startup in order to persist on a system. An adversary may also incorporate Masquerading by using a service name from a related operating system or benign software, or by modifying existing services to make detection analysis more challenging. Modifying existing services may interrupt their functionality or may enable services that are disabled or otherwise not commonly used. Services may be created with administrator privileges but are executed under SYSTEM privileges, so an adversary may also use a service to escalate privileges from administrator to SYSTEM.*
 
 ## Fountain:
-[Kapersky: "De Shamoon a StoneDrill – Un nuevo malware destructivo hace aparición"](https://www.kaspersky.es/about/press-releases/de-shamoon-a-stonedrill-un-nuevo-malware-destructivo-hace-aparicion)
+Kapersky: "De Shamoon a StoneDrill – Un nuevo malware destructivo hace aparición: https://www.kaspersky.es/about/press-releases/de-shamoon-a-stonedrill-un-nuevo-malware-destructivo-hace-aparicion
 
-[MITRE ATT&CK®: "StoneDrill is wiper malware discovered in destructive campaigns against both Middle Eastern and European targets in association with APT33"](https://attack.mitre.org/software/S0380/)
+MITRE ATT&CK®: "StoneDrill is wiper malware discovered in destructive campaigns against both Middle Eastern and European targets in association with APT33": https://attack.mitre.org/software/S0380/
 
-[S E R I N F O R: "StoneDrill, el wiper que borra los discos duros dejándolos vacíos"](https://www.serinfor.net/stonedrill-el-wiper-que-borra-los-discos-duros-dejandolos-vacios/)
+S E R I N F O R: "StoneDrill, el wiper que borra los discos duros dejándolos vacíos": https://www.serinfor.net/stonedrill-el-wiper-que-borra-los-discos-duros-dejandolos-vacios/
 
-[MalPedia](https://malpedia.caad.fkie.fraunhofer.de/details/win.stonedrill)
+MalPedia: https://malpedia.caad.fkie.fraunhofer.de/details/win.stonedrill
 
-[Microsoft: "Trojan:Win32/StoneDrill!pz"](https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Trojan:Win32/StoneDrill!pz&ThreatID=2147894934)
+Microsoft: "Trojan:Win32/StoneDrill!pz": https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Trojan:Win32/StoneDrill!pz&ThreatID=2147894934
 
-[KasperskyContentHub "FROM SHAMOON TO STONEDRILL"](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180722/Report_Shamoon_StoneDrill_final.pdf)
+KasperskyContentHub "FROM SHAMOON TO STONEDRILL": https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180722/Report_Shamoon_StoneDrill_final.pdf
