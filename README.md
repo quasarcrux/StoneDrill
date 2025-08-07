@@ -1,4 +1,5 @@
-> Description
+> ### Description
+
 > This method detects a service install of the malicious Microsoft Network Realtime Inspection Service service described in StoneDrill report by Kaspersky. This rule is adapted from https://github.com/SigmaHQ/sigma/blob/master/rules/windows/builtin/system/service_control_manager/win_system_apt_stonedrill.yml
 
 # StoneDrill PhysicalDrive Fucker!
